@@ -1,0 +1,17 @@
+h1{
+    background-color: rgb(238, 242, 245) !important;
+}
+body{
+    background-image: url(https://hoopshype.com/wp-content/uploads/sites/92/2020/08/nbatv.jpg?w=1000);
+}
+.form-select{
+    font-size: larger;
+}
+.selectTeamDiv{
+    background-color: aliceblue;
+    margin-top: 50px!important;
+    margin-left: 10px!important;
+    margin-right: 10px!important;
+    margin-bottom: 50px!important;
+    box-sizing: 200px!important;
+}
